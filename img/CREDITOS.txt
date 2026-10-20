@@ -1,0 +1,8 @@
+Creditos de imagenes (todas de dominio publico / CC0, Wikimedia Commons). Reemplazar por fotografia propia de CONADIRS cuando este disponible.
+
+fuego-practica.jpg    - "STS-41 crewmembers use fire extinguishers to control blaze at JSC's fire pit" (NASA, dominio publico)
+fuego-llamas.jpg      - "Aircraft Rescue, Fire Fighting Marines train for any burning situation" 151016-M-MB391-040 (USMC, dominio publico)
+industria-clase-c.jpg - "US Navy 070606-N-3390M-002 ... extinguishes a simulated class C fire" (US Navy, dominio publico)
+extintores-pared.jpg  - "US fire extinguishers from 1960 and 2010" (Waz8, CC0)
+
+logo-circular.webp, logo-diamante.webp, material-servicios.jpg, material-capacitacion.jpg, ing-eder.jpg: material propio de CONADIRS enviado por el cliente.
